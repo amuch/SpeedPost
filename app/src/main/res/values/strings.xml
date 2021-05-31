@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpeedPost</string>
+
+    <string name="set_interval">Set interval (sec):</string>
+    <string name="default_interval">60</string>
+    <string name="trip_button_text_start">Start Trip</string>
+    <string name="trip_button_text_stop">Stop Trip</string>
+</resources>
